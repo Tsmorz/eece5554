@@ -1,0 +1,3 @@
+Ubuntu is installed!
+I'm on Gitlab (obviously)
+Animals come out of hibernation in order to sleep and then go back into hibernation. They aren't actually sleeping when they "hibernate".
